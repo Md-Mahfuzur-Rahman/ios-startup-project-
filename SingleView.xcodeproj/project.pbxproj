@@ -17,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B398898E2508C7C1008CDAAB /* SingleView.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; name = SingleView.xctestplan; path = SingleView/SingleView.xctestplan; sourceTree = "<group>"; };
 		B3EA20BD2508B8C800ED0C65 /* SingleView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SingleView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3EA20C02508B8C800ED0C65 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B3EA20C12508B8C800ED0C65 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -45,6 +46,7 @@
 		B3EA20B42508B8C800ED0C65 = {
 			isa = PBXGroup;
 			children = (
+				B398898E2508C7C1008CDAAB /* SingleView.xctestplan */,
 				B3EA20BF2508B8C800ED0C65 /* SingleView */,
 				B3EA20BE2508B8C800ED0C65 /* Products */,
 			);
