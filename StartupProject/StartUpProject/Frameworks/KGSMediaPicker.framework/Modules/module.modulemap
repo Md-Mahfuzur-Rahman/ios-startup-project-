@@ -1,0 +1,6 @@
+framework module KGSMediaPicker {
+  umbrella header "KGSMediaPicker.h"
+
+  export *
+  module * { export * }
+}

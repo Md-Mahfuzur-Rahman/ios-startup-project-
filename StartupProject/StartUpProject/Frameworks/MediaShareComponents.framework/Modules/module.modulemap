@@ -1,0 +1,6 @@
+framework module MediaShareComponents {
+  umbrella header "MediaShareComponents.h"
+
+  export *
+  module * { export * }
+}
