@@ -1,5 +1,5 @@
 language: objective-c
 osx_image: xcode11.4
-xcode_workspace: SingleView.xcodeproj
+xcode_project: SingleView.xcodeproj
 xcode_scheme: SingleView
 xcode_sdk: iphonesimulator13.4
