@@ -19,6 +19,7 @@
     // Override point for customization after application launch.
     return YES;
 }
+// #24.1 passed
 
 
 #pragma mark - UISceneSession lifecycle
