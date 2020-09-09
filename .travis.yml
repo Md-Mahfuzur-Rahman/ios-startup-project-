@@ -1,4 +1,5 @@
 language: objective-c
-xcode_project: SingleView.xcodeproj # path to your xcodeproj folder
+osx_image: xcode11.4
+xcode_workspace: SingleView.xcodeproj
 xcode_scheme: SingleView
-xcode_destination: platform=iOS Simulator,OS=10.1,name=iPad Pro (9.7-inch)
+xcode_sdk: iphonesimulator13.4
