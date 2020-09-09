@@ -1,6 +1,0 @@
-framework module KGPurchaseView {
-  umbrella header "KGPurchaseView.h"
-
-  export *
-  module * { export * }
-}

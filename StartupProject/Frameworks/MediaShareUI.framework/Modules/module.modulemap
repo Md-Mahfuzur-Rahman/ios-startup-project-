@@ -1,6 +1,0 @@
-framework module MediaShareUI {
-  umbrella header "MediaShareUI.h"
-
-  export *
-  module * { export * }
-}
